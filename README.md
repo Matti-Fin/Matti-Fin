@@ -19,7 +19,7 @@ chat, documents and a digital membership card. Pilot phase.
 
 A Finnish business software suite. Every application owns its data and exposes an open API.
 
-| | |
+| Application | Description |
 |---|---|
 | [Saldo](https://guildapp.fi/olympos/Saldo.html) | Accounting, VAT, invoicing, payroll and financial statements (iXBRL). Live, free 14-day trial |
 | [Olympos ERP](https://guildapp.fi/olympos/ERP.html) | Orders, work orders, inventory and billing. Coming soon |
